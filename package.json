@@ -9,7 +9,6 @@
   "author": "Jonathan Noe",
   "license": "",
   "dependencies": {
-    "bootstrap": "^3.3.7",
     "console-stamp": "^0.2.5",
     "mocha": "^3.5.0"
   }

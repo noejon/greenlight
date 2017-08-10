@@ -4,10 +4,10 @@ const TrafficLightState = require("./traffic-light-state").TrafficLightState;
 
 class Intersection {
   constructor() {
-    const _north = TrafficLight.create("North");
-    const _south = TrafficLight.create("South");
-    const _east = TrafficLight.create("East");
-    const _west = TrafficLight.create("West");
+    const _north = TrafficLight.create("N");
+    const _south = TrafficLight.create("S");
+    const _east = TrafficLight.create("E");
+    const _west = TrafficLight.create("W");
 
     const changeOneTrafficLight = (trafficLight, yellowOnly) => {
       if (

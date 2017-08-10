@@ -42,8 +42,8 @@ class TrafficLight {
           break;
       }
       console.log(
-        `${_name}: Switched from ${TrafficLightState.properties[oldState]
-          .state} to ${TrafficLightState.properties[_state].state}`
+        `${_name}: ${TrafficLightState.properties[oldState]
+          .state} ==> ${TrafficLightState.properties[_state].state}`
       );
     };
   }
