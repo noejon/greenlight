@@ -1,0 +1,16 @@
+{
+  "name": "traffic_lights",
+  "version": "1.0.0",
+  "description": "Technical skill assessment exercise: You are required to provide the code for an application that simulates a set of traffic lights at an intersection.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Noe",
+  "license": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "console-stamp": "^0.2.5",
+    "mocha": "^3.5.0"
+  }
+}
