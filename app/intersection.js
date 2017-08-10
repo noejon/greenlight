@@ -25,7 +25,8 @@ class Intersection {
         _south.setState(TrafficLightState.Green);
         _east.setState(TrafficLightState.Red);
         _west.setState(TrafficLightState.Red);
-        console.log(`The lights are initialized as follow:
+        console.log(`
+        The lights are initialized as follow:
         - N: Green
         - S: Green
         - E: Red
