@@ -1,0 +1,63 @@
+[00:53:32] [LOG]  
+ 
+        The lights are initialized as follow:
+        - N: Green
+        - S: Green
+        - E: Red
+        - W: Red
+
+[00:58:02] [LOG]   N: Green ==> Yellow
+[00:58:02] [LOG]   S: Green ==> Yellow
+
+[00:58:32] [LOG]   N: Yellow ==> Red
+[00:58:32] [LOG]   S: Yellow ==> Red
+[00:58:32] [LOG]   E: Red ==> Green
+[00:58:32] [LOG]   W: Red ==> Green
+
+[01:03:02] [LOG]   E: Green ==> Yellow
+[01:03:02] [LOG]   W: Green ==> Yellow
+
+[01:03:32] [LOG]   N: Red ==> Green
+[01:03:32] [LOG]   S: Red ==> Green
+[01:03:32] [LOG]   E: Yellow ==> Red
+[01:03:32] [LOG]   W: Yellow ==> Red
+
+[01:08:02] [LOG]   N: Green ==> Yellow
+[01:08:02] [LOG]   S: Green ==> Yellow
+
+[01:08:32] [LOG]   N: Yellow ==> Red
+[01:08:32] [LOG]   S: Yellow ==> Red
+[01:08:32] [LOG]   E: Red ==> Green
+[01:08:32] [LOG]   W: Red ==> Green
+
+[01:13:02] [LOG]   E: Green ==> Yellow
+[01:13:02] [LOG]   W: Green ==> Yellow
+
+[01:13:32] [LOG]   N: Red ==> Green
+[01:13:32] [LOG]   S: Red ==> Green
+[01:13:32] [LOG]   E: Yellow ==> Red
+[01:13:32] [LOG]   W: Yellow ==> Red
+
+[01:18:02] [LOG]   N: Green ==> Yellow
+[01:18:02] [LOG]   S: Green ==> Yellow
+
+[01:18:32] [LOG]   N: Yellow ==> Red
+[01:18:32] [LOG]   S: Yellow ==> Red
+[01:18:32] [LOG]   E: Red ==> Green
+[01:18:32] [LOG]   W: Red ==> Green
+
+[01:23:02] [LOG]   E: Green ==> Yellow
+[01:23:02] [LOG]   W: Green ==> Yellow
+
+[01:23:32] [LOG]   N: Red ==> Green
+[01:23:32] [LOG]   S: Red ==> Green
+[01:23:32] [LOG]   E: Yellow ==> Red
+[01:23:32] [LOG]   W: Yellow ==> Red
+
+[01:28:02] [LOG]   N: Green ==> Yellow
+[01:28:02] [LOG]   S: Green ==> Yellow
+
+[01:28:32] [LOG]   N: Yellow ==> Red
+[01:28:32] [LOG]   S: Yellow ==> Red
+[01:28:32] [LOG]   E: Red ==> Green
+[01:28:32] [LOG]   W: Red ==> Green
