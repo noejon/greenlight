@@ -38,12 +38,12 @@ The traffic lights are designated (N,S) and (E,W) like a compass.
 ## Implementation
 
 - Green, Yellow, Red and Off are traffic light states, thus a [TrafficLightState](app/traffic-light-state.js) enumeration has been created:
-TrafficLightState | Value |
------------------ | ------|
-    Green         |   1   |
-    Yellow        |   2   |
-    Red           |   3   |
-    Off           |   4   |
+TrafficLightState|Value|
+-----------------|-----|
+    Green        |  1  |
+    Yellow       |  2  |
+    Red          |  3  |
+    Off          |  4  |
 
 - N, S, E and W are traffic lights, thus a [TrafficLight](app/traffic-light.js) class has been created.
     TrafficLight just takes care of the traffic light state.
