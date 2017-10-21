@@ -1,0 +1,28 @@
+Hi Jonathan,
+
+As promised, here is the feedback from your test -
+
+POSITIVES
++ it's in nodeJS 
++ has automated tests that pass 
++ has thought about domain design and extensibility 
++ has extended README
+
+NEGATIVES
+
+Major:
+
+- ES6 use of classes is problematic (e.g. declaring everything inside a constructor) 
+- use of OO-style is problematic (e.g. classes that do not encapsulate any state e.g. "Intersection") 
+- introducing test-only code in production is questionable (it is to test a private function but that function does not even need to be private as it does not access any private state) 
+- code readability is poor in a number of places e.g. in Intersection::changeOneTrafficLight() what is yellowOnly? no comments, too many conditional statements etc. 
+- expected some more thought about error-handling at least at the level of comments or README
+
+Minor:
+
+- code commit comments are not informative 
+- "use strict" is redundant in modern versions of node 
+- missed a lot of semicolons 
+- a few typos in the comments and documentation 
+- expected better use of npm (like npm test) 
+- does not specify version of nodeJS should be used
